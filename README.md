@@ -2,10 +2,13 @@
 
 <h2>Sobre</h2>
 <p>
-Um projeto de aprendizado e colaboração em equipe, para treinamento e desenvolvimento dos alunos do curso<br>
-de <b>Desenvolvimento Back-End</b> da instituição Senai Escola Frederico Jacob.<br>
+<p>
+  Este é um projeto de aprendizado e colaboração em equipe, desenvolvido para o treinamento e aperfeiçoamento dos alunos do curso 
+  <strong>Desenvolvimento Back-End</strong> da instituição Senai Escola Frederico Jacob.
+</p>
 
-Projeto pensando para comunicação entre multiplas pessoas e origens, aonde em poucos clicks você pode se conectar com o mundo<br>
+<p>
+  O projeto foi concebido para facilitar a comunicação entre múltiplas pessoas e origens, permitindo que, em poucos cliques, você se conecte com o mundo.
 </p>
 
 <h4>Colaboradores</h4>
@@ -17,7 +20,7 @@ Projeto pensando para comunicação entre multiplas pessoas e origens, aonde em 
 * 444jo
 
 <h4>Tecnologias</h4>
-
+</p>
 <p>
 
 <h6><b>BACK-END</b></h6>
